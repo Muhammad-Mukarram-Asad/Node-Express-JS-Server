@@ -1,0 +1,9 @@
+// Saylani Training of Node & Express.js by Sir Inzemam Malik
+
+// Question: What is server in general?
+// Answer: Server is considered both Hardware & Software component. It is used to communicate with client.
+//  But mostly it is a software component.
+
+// Whenever we made any API like I did above, we have to send it to any cloud storage so that my server is accessible to all users.
+// So actually we do cloud computing. Like we sent our server to cloud service providers like Google, AWS etc.
+// Port: Handling request and response of client and server.

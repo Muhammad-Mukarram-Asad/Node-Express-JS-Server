@@ -1,3 +1,7 @@
+import express from "express";
+import jwt from "jsonwebtoken";
+const app = express();
+
 // Parse JSON Through express:
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));

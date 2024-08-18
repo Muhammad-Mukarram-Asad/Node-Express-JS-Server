@@ -1,7 +1,5 @@
 import express from "express"; // default export
 import mysql from "mysql"
-// import jwt from "jsonwebtoken";
-// const app = express();
 const port = 3000;
 
 // Creating Connection With Database MySql:
